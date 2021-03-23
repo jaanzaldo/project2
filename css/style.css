@@ -2,7 +2,14 @@ body {
 	background-color:#00cc99;
 }	
 h1 { 
+	font-family: 'Rubik', light;
 	color:#9933ff;
 	text-align:center;
-	text-shadow: 1px 1px;
+	text-shadow: 1px 1px 3px black;
+}
+
+h2 {
+	font-family: 'Quicksand', sans-serif;
+	color:#ff0000;
+	text-shadow: 2px 1px 3px black;
 }
