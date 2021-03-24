@@ -33,6 +33,18 @@
 	
 }
 
+#main-navbar ul li a:hover {
+	background-color:#000;
+}
+
+
+
+#onpage {
+	color:red;
+	position:relative;
+	text-shadow: 1px 1px 10px blue;
+}
+
 body {
 	background-color:#00cc99;
 }	
