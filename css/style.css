@@ -80,3 +80,8 @@ ul {
 	font-weight:bold;
 	text-shadow: 3px 3px 3px black;	
 }
+#wrapper {
+	margin-left:20px;
+	position:static;
+	float:left;
+}
