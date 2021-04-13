@@ -37,12 +37,19 @@
 	background-color:#000;
 }
 
+#rendition {
+	float:down;
+}
 
+#welcome {
+	position:relative;
+	left:1000px;
+}
 
 #onpage {
 	color:red;
 	position:relative;
-	text-shadow: 1px 1px 10px blue;
+	text-shadow: 1px 1px 10px #cc33ff;
 }
 
 body {
@@ -52,33 +59,30 @@ h1 {
 	font-family: 'Blinker', sans-serif;
 	color:#cc33ff;
 	text-align:center;
-	text-shadow: 1px 1px 3px black;
 }
 
 h2 {
 	font-family: 'Quicksand', sans-serif;
 	color:#ff0000;
-	text-shadow: 2px 1px 3px black;
 }
 
 h3 {
 	font-family: 'Quicksand', sans-serif;
 	color:#ff0000;
-	text-shadow: 2px 1px 3px black;
 }
 
 p {
 	font-family: 'Rubik', light;
 	color:#ffffff;
 	font-weight:bold;
-	text-shadow: 3px 3px 3px black;
+	text-shadow: 1px 1px 1px black;
 }
 
 ul {
 	font-family: 'Rubik', light;
 	color:#ffffff;
 	font-weight:bold;
-	text-shadow: 3px 3px 3px black;	
+	text-shadow: 1px 1px 1px black;	
 }
 #wrapper {
 	margin-left:20px;
@@ -89,4 +93,14 @@ ul {
 iframe {
 	width:1280px;
 	height:720px;
+	position:static;
+}
+
+#intro {
+	text-align:center;
+}
+
+#resume {
+	position:relative;
+	left:150px;	
 }
