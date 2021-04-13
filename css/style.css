@@ -38,7 +38,8 @@
 }
 
 #rendition {
-	float:down;
+	position:relative;
+	left: 50px;
 }
 
 #welcome {
